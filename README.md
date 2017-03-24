@@ -2,5 +2,7 @@
 Tarea 1 del ramo Introducción a las redes neuronales artificiales
 
 Integrantes:  
-Francisco Mena//201373504-5  	
+
+Francisco Mena//201373504-5  
+
 Fabián Fernández//rol  
