@@ -1,4 +1,4 @@
-# ArtificialNeuralNetwork1
+# ArtificialNeuralNetwork2
 Tarea 2 del ramo Introducción a las redes neuronales artificiales
 
 Integrantes:  
